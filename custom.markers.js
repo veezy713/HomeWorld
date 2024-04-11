@@ -145,9 +145,72 @@ UnminedCustomMarkers = {
         },
 
 
-
-       // Ocean Monuments
+	// Ocean Monuments
+	    {
+            x: 1113,
+            z: -261,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: 759,
+            z: -216,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: -902,
+            z: -167,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: 67,
+            z: -1882,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: -1800,
+            z: -215,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: 1113,
+            z: -261,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: -1846,
+            z: -776,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: -950,
+            z: -745,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
+	    {
+            x: -1426,
+            z: -1414,
+            image: "Trident.webp",
+            imageAnchor: [0.5, 0],
+            imageScale: 0.4,
+	},
 	    
+		    
         // add your markers here
 
 
