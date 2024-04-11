@@ -131,7 +131,6 @@ UnminedCustomMarkers = {
 	    offsetY: 20,
 	    font: "bold 20px Calibri,sans serif",
         },
-
         {
             x: -376,
             z: -1872,
@@ -147,7 +146,8 @@ UnminedCustomMarkers = {
 
 
 
-       
+       // Ocean Monuments
+	    
         // add your markers here
 
 
